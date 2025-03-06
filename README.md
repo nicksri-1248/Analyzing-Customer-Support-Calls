@@ -4,8 +4,8 @@ Our aim is to transcribe customer support audio calls, evaluate customers' senti
 
 ## Install Packages
 
-!pip install SpeechRecognition
-!pip install nltk
-!pip install pydub
-!pip install spacy
-!python3 -m spacy download en_core_web_sm
+### !pip install SpeechRecognition
+### !pip install nltk
+### !pip install pydub
+### !pip install spacy
+### !python3 -m spacy download en_core_web_sm
